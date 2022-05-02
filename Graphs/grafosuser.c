@@ -17,7 +17,7 @@ int main(){
     // InsereAresta(g, 4, 8 , 3);
     ListaVerticesAdjVazia(7, g);
     ImprimeGrafo(g);
-    //LiberaGrafo(g);
+
     
     return 0;
 }
